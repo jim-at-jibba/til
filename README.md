@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-7 TILs and counting...
+8 TILs and counting...
 ---
 
 ### Categories
@@ -14,6 +14,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 * [Android](#android)
 * [Go](#go)
 * [Chrome](#chrome)
+* [Git](#git)
 
 ---
 
@@ -32,3 +33,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### Chrome
 
 - [Search key binding](chrome/snap-to-search-keyboard.md)
+
+### Git
+
+- [Git cherrypick](git/cherry-picking.md)
