@@ -15,6 +15,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 * [Go](#go)
 * [Chrome](#chrome)
 * [Git](#git)
+* [Vim](#vim)
 
 ---
 
@@ -37,3 +38,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### Git
 
 - [Git cherrypick](git/cherry-picking.md)
+
+### Vim
+
+- [Background/Foreground Vim session](vim/background-vim.md)
