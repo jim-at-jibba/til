@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-8 TILs and counting...
+9 TILs and counting...
 ---
 
 ### Categories
@@ -16,6 +16,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 * [Chrome](#chrome)
 * [Git](#git)
 * [Vim](#vim)
+* [Python](#python)
 
 ---
 
@@ -42,3 +43,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### Vim
 
 - [Background/Foreground Vim session](vim/background-vim.md)
+
+### Python
+
+- [Dependency management](python/managing-dependencies.md)
