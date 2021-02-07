@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-10 TILs and counting...
+11 TILs and counting...
 ---
 
 ### Categories
@@ -32,6 +32,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 - [Check if a string is upper or lower case in Go](go/check-string-upper-lower-case.md)
 - [Check if a string only contains letters](go/check-string-only-contains-letters.md)
 - [Managing env variables](go/managing-env-vars.md)
+- [Reading the body of a Gin REST request](go/reading-body-gin-request.md)
 
 ### Chrome
 
