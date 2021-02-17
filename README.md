@@ -6,12 +6,13 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-13 TILs and counting...
+16 TILs and counting...
 ---
 
 ### Categories
 
 * [Android](#android)
+* [Hacking](#hacking)
 * [Go](#go)
 * [Chrome](#chrome)
 * [Git](#git)
@@ -24,6 +25,12 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### Android
 
 - [Tools Replace](android/tools-replace.md)
+
+### Hacking
+
+- [Cracking with John](security/cracking-hash-john.md)
+- [Recognising hash types](security/recognising-hash-types.md)
+
 
 ### Go
 
