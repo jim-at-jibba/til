@@ -6,21 +6,25 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-17 TILs and counting...
----
+## 18 TILs and counting...
 
 ### Categories
 
-* [Android](#android)
-* [Hacking](#hacking)
-* [Go](#go)
-* [Chrome](#chrome)
-* [Git](#git)
-* [Vim](#vim)
-* [Python](#python)
-* [Linux](#Linux)
+- [Javascript](#javascript)
+- [Android](#android)
+- [Hacking](#hacking)
+- [Go](#go)
+- [Chrome](#chrome)
+- [Git](#git)
+- [Vim](#vim)
+- [Python](#python)
+- [Linux](#Linux)
 
 ---
+
+### Javascript
+
+- [Check The Password Confirmation With Yup](javascript/password-conifrmation-yup.md)
 
 ### Android
 
@@ -30,7 +34,6 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Cracking with John](security/cracking-hash-john.md)
 - [Recognising hash types](security/recognising-hash-types.md)
-
 
 ### Go
 
