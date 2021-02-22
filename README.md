@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 19 TILs and counting...
+## 20 TILs and counting...
 
 ### Categories
 
@@ -34,6 +34,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Cracking with John](security/cracking-hash-john.md)
 - [Recognising hash types](security/recognising-hash-types.md)
+- [Execute commands with find and sudo](security/exec-find-command-sudo.md)
 
 ### Go
 
