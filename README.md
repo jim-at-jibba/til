@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 18 TILs and counting...
+## 19 TILs and counting...
 
 ### Categories
 
@@ -66,3 +66,4 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Find file containing string](linux/find-containing.md)
 - [Multi machine VagrantFile](linux/mutli-server-vagrant.md)
+- [Execute command after find](linux/exec-find-command.md)
