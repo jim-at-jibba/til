@@ -4,7 +4,6 @@ You can define multiple machines in a single vagrant file.
 
 To perform an action on a specifc machine, the commands look like: `vagrant [action] [machineName]`
 
-
 ```VagrantFile
 Vagrant.configure(2) do | config |
   config.vm.box = "jasonc/centos7"

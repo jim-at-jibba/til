@@ -3,8 +3,6 @@
 Sometimes you want to search for a file that has a certain string in
 its name.
 
-
-
 Use `find`:
 
 `find . -maxdepth 1 -name "*string*" -print`
