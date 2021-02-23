@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 20 TILs and counting...
+## 22 TILs and counting...
 
 ### Categories
 
@@ -14,6 +14,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 - [Android](#android)
 - [Hacking](#hacking)
 - [Go](#go)
+- [Mac](#mac)
 - [Chrome](#chrome)
 - [Git](#git)
 - [Vim](#vim)
@@ -46,6 +47,11 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 - [Managing env variables](go/managing-env-vars.md)
 - [Reading the body of a Gin REST request](go/reading-body-gin-request.md)
 - [Reading value from StdIn](go/scanf-reading-stdin-variable.md)
+
+### Mac
+
+- [Stop the touchbar](mac/stop-touchbar-shit.md)
+- [Toggle dotfiles](mac/show-hidden-files.md)
 
 ### Chrome
 
