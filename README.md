@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 22 TILs and counting...
+## 23 TILs and counting...
 
 ### Categories
 
@@ -64,6 +64,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### Vim
 
 - [Background/Foreground Vim session](vim/background-vim.md)
+- [Move to other end of a selection](vim/move-other-end-selection.md)
 
 ### Python
 
