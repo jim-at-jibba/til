@@ -6,10 +6,11 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 23 TILs and counting...
+## 24 TILs and counting...
 
 ### Categories
 
+- [React](#react)
 - [Javascript](#javascript)
 - [Android](#android)
 - [Hacking](#hacking)
@@ -22,6 +23,10 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 - [Linux](#Linux)
 
 ---
+
+### React
+
+- [Handle hover events in React](react/handle-on-hover-components.md)
 
 ### Javascript
 
