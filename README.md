@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 25 TILs and counting...
+## 26 TILs and counting...
 
 ### Categories
 
@@ -58,6 +58,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Stop the touchbar](mac/stop-touchbar-shit.md)
 - [Toggle dotfiles](mac/show-hidden-files.md)
+- [Update cocoapods version](mac/update-pods-version.md)
 
 ### Chrome
 
