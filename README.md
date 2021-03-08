@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 24 TILs and counting...
+## 25 TILs and counting...
 
 ### Categories
 
@@ -31,6 +31,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### Javascript
 
 - [Check The Password Confirmation With Yup](javascript/password-conifrmation-yup.md)
+- [Remove property from an object](javascript/remove-property-object.md)
 
 ### Android
 
