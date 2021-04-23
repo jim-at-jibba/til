@@ -6,12 +6,12 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 27 TILs and counting...
+## 28 TILs and counting...
 
 ### Categories
 
 - [TIL](#til)
-  - [27 TILs and counting...](#27-tils-and-counting)
+  - [28 TILs and counting...](#28-tils-and-counting)
     - [Categories](#categories)
     - [React](#react)
     - [Javascript](#javascript)
@@ -80,6 +80,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### VSCode
 
 - [Custom foldable regions](vscode/custom-foldable-regions.md)
+- [Easily switch between recent files](vscode/easily-switch-between-recent-files.md)
 
 ### Python
 
