@@ -6,21 +6,25 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 26 TILs and counting...
+## 27 TILs and counting...
 
 ### Categories
 
-- [React](#react)
-- [Javascript](#javascript)
-- [Android](#android)
-- [Hacking](#hacking)
-- [Go](#go)
-- [Mac](#mac)
-- [Chrome](#chrome)
-- [Git](#git)
-- [Vim](#vim)
-- [Python](#python)
-- [Linux](#Linux)
+- [TIL](#til)
+  - [27 TILs and counting...](#27-tils-and-counting)
+    - [Categories](#categories)
+    - [React](#react)
+    - [Javascript](#javascript)
+    - [Android](#android)
+    - [Hacking](#hacking)
+    - [Go](#go)
+    - [Mac](#mac)
+    - [Chrome](#chrome)
+    - [Git](#git)
+    - [Vim](#vim)
+    - [VSCode](#vscode)
+    - [Python](#python)
+    - [Linux](#linux)
 
 ---
 
@@ -72,6 +76,10 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Background/Foreground Vim session](vim/background-vim.md)
 - [Move to other end of a selection](vim/move-other-end-selection.md)
+
+### VSCode
+
+- [Custom foldable regions](vscode/custom-foldable-regions.md)
 
 ### Python
 
