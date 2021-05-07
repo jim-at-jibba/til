@@ -6,16 +6,17 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 30 TILs and counting...
+## 31 TILs and counting...
 
 ### Categories
 
 - [TIL](#til)
-  - [30 TILs and counting...](#30-tils-and-counting)
+  - [31 TILs and counting...](#31-tils-and-counting)
     - [Categories](#categories)
     - [React](#react)
     - [Javascript](#javascript)
     - [Android](#android)
+    - [ios](#ios)
     - [Hacking](#hacking)
     - [Go](#go)
     - [Mac](#mac)
@@ -41,6 +42,10 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Tools Replace](android/tools-replace.md)
 - [Get app and activity name of focussed app](android/get-get-current-focus-package-name.md)
+
+### ios
+
+- [Get bundle id of install app](ios/finding-bundle-id-installed-apps.md)
 
 ### Hacking
 
