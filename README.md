@@ -6,12 +6,12 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 34 TILs and counting...
+## 35 TILs and counting...
 
 ### Categories
 
 - [TIL](#til)
-  - [34 TILs and counting...](#34-tils-and-counting)
+  - [35 TILs and counting...](#35-tils-and-counting)
     - [Categories](#categories)
     - [React](#react)
     - [Javascript](#javascript)
@@ -81,6 +81,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Git cherrypick](git/cherry-picking.md)
 - [Restore deleted file](git/restore-deleted-file.md)
+- [Git wont reflect case changes in files names unless explicitly told too](git/not-respecting-filename-changes.md)
 
 ### Vim
 
