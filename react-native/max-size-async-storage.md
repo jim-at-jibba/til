@@ -30,3 +30,5 @@ try {
 }
 
 ```
+
+[Source](https://github.com/andpor/react-native-sqlite-storage/issues/364)
