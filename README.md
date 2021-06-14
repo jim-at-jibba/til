@@ -6,15 +6,16 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 35 TILs and counting...
+## 36 TILs and counting...
 
 ### Categories
 
 - [TIL](#til)
-  - [35 TILs and counting...](#35-tils-and-counting)
+  - [36 TILs and counting...](#36-tils-and-counting)
     - [Categories](#categories)
     - [React](#react)
     - [Javascript](#javascript)
+    - [React Native](#react-native)
     - [Android](#android)
     - [ios](#ios)
     - [Hacking](#hacking)
@@ -37,6 +38,10 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Check The Password Confirmation With Yup](javascript/password-conifrmation-yup.md)
 - [Remove property from an object](javascript/remove-property-object.md)
+
+### React Native
+
+- [Increse default size for Async Stoarge and SQLite (Android)](react-native/max-size-async-storage.md)
 
 ### Android
 
