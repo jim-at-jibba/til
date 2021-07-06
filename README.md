@@ -14,6 +14,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
   - [37 TILs and counting...](#37-tils-and-counting)
     - [Categories](#categories)
     - [React](#react)
+    - [CSS](#css)
     - [Javascript](#javascript)
     - [React Native](#react-native)
     - [Android](#android)
@@ -33,6 +34,13 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### React
 
 - [Handle hover events in React](react/handle-on-hover-components.md)
+- [Match current route in React Router](react/react-router-match-route.md)
+
+### CSS
+
+- [Stop animation wobble](css/animation-wobble.md)
+- [Border Box](css/border-box.md)
+- [Set initial animated value](css/setting-initial-animated-value.md)
 
 ### Javascript
 
