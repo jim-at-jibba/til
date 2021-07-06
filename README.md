@@ -101,6 +101,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [Background/Foreground Vim session](vim/background-vim.md)
 - [Move to other end of a selection](vim/move-other-end-selection.md)
+- [Get current file path](vim/get-current-file-path.md)
 
 ### VSCode
 
