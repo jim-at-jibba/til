@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 37 TILs and counting...
+## 43 TILs and counting...
 
 ### Categories
 
@@ -41,6 +41,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 - [Stop animation wobble](css/animation-wobble.md)
 - [Border Box](css/border-box.md)
 - [Set initial animated value](css/setting-initial-animated-value.md)
+- [Centering element without flexbox](css/center-element-no-flexbox.md)
 
 ### Javascript
 
