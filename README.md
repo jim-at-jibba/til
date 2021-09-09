@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 44 TILs and counting...
+## 45 TILs and counting...
 
 ### Categories
 
@@ -104,6 +104,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 - [Background/Foreground Vim session](vim/background-vim.md)
 - [Move to other end of a selection](vim/move-other-end-selection.md)
 - [Get current file path](vim/get-current-file-path.md)
+- [Fixing triggering completion popup in insert mode](vim/fixing-triggering-complete-insert.md)
 
 ### VSCode
 
