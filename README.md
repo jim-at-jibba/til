@@ -6,7 +6,7 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 43 TILs and counting...
+## 44 TILs and counting...
 
 ### Categories
 
@@ -28,6 +28,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
     - [VSCode](#vscode)
     - [Python](#python)
     - [Linux](#linux)
+    - [AWS](#AWS)
 
 ---
 
@@ -118,3 +119,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 - [Find file containing string](linux/find-containing.md)
 - [Multi machine VagrantFile](linux/mutli-server-vagrant.md)
 - [Execute command after find](linux/exec-find-command.md)
+
+### AWS
+
+- [Regenerate aws-export file](aws/regenerate-aws-export.md)
