@@ -1,0 +1,1 @@
+https://askubuntu.com/questions/1110712/how-to-use-virtualbox-in-full-screen

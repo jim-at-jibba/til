@@ -115,6 +115,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 ### Python
 
 - [Dependency management](python/managing-dependencies.md)
+- [Pytest Poetry Error](python/pytest-poetry-error.md)
 
 ### Linux
 
