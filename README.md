@@ -6,12 +6,12 @@ We constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips we've recently learned.
 
-## 46 TILs and counting...
+## 47 TILs and counting...
 
 ### Categories
 
 - [TIL](#til)
-  - [37 TILs and counting...](#37-tils-and-counting)
+  - [47 TILs and counting...](#37-tils-and-counting)
     - [Categories](#categories)
     - [React](#react)
     - [CSS](#css)
@@ -50,6 +50,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 - [Check The Password Confirmation With Yup](javascript/password-conifrmation-yup.md)
 - [Remove property from an object](javascript/remove-property-object.md)
 - [How to select the next input field with next button on the keyboard](react-native/input-field-next.md)
+- [lerna publish: "Current HEAD is already released"](/javascript/npm-publish.md)
 
 ### React Native
 
