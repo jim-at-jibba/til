@@ -12,6 +12,7 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 - [TIL](#til)
   - [47 TILs and counting...](#37-tils-and-counting)
+    - [Bash](#bash)
     - [Categories](#categories)
     - [React](#react)
     - [CSS](#css)
@@ -32,6 +33,10 @@ concepts, bits of syntax, commands, or tips we've recently learned.
     - [Testing](#Testing)
 
 ---
+
+### Bash
+
+- [SED delimiter](bash/sed-delimiter.md)
 
 ### React
 
